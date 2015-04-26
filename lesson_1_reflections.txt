@@ -1,0 +1,10 @@
+I already pretty much know the point.  it makes it way easier to find differences in files
+
+having easy access to old versions can make you a better programmer by making it easier to track issues that appear.  Additionally, with more checkpoints, you can work faster
+
+with manual commits, every commit is meaningful and should be functional
+
+Multi File Commits
+With Git, it’s expected that commits should span multiple files.  Code is going to be dependent on other files, so we’d need to be able to track those dependencies and changes.  
+
+With something like Google Docs, on the other hand, it’s intended to be used as a word processor, where one document shouldn’t have a lot of impact on any other documents.

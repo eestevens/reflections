@@ -1,0 +1,1 @@
+You need to set up a git repository so that git has a starting point for history, changes, branches, etc
