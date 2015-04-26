@@ -1,3 +1,5 @@
 You need to set up a git repository so that git has a starting point for history, changes, branches, etc
 
 You can use git diff --staged to see the differences between what is committed and what is in the staging area.  use this to verify that only what you're ready to commit has been added to staging area
+
+We already pretty much covered it, but parallel development, bug fixes, experimental work, would all be good examples of times to use branching 
